@@ -1,0 +1,61 @@
+﻿Created By Exterro® FTK® Imager 8.3.0.27 
+
+Case Information: 
+Case Number: KASUS-USB-01
+Evidence Number: EVD-USB-01
+Unique Description: 
+Examiner: DHOD
+Notes:  
+Encrypted Password : N/A
+
+Computer Name: BLAZE
+Windows Edition: Windows 11 Home Single Language
+Windows Version: Microsoft Windows 6.3.26200.9457
+OS build: 6.3.26200
+Processor: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+Installed RAM: 8 GB
+
+--------------------------------------------------------------
+
+Information for D:\01_Bagusa\Forensik Tugas\USB_Toshiba_Evidence:
+
+Physical Evidentiary Item (Source) Information:
+  [Device Info]
+    Source Type: Physical
+  [Drive Geometry]
+    Cylinders: 1,886
+    Tracks per Cylinder: 255
+    Sectors per Track: 63
+    Bytes per Sector: 512
+    Sector Count: 30,310,400
+  [Physical Drive Information]
+    Drive Model: TOSHIBA TransMemory USB Device
+    Drive Serial Number: C
+    Drive Interface Type: USB
+    Removable drive: True
+    Source data size: 14800 MB
+    Sector count:    30310400
+  [Computed Hashes]
+    MD5 Hash:    a2b1b05dc8b3f3535445437c64b5aae6
+    SHA1 Hash:   97ba63c1c53e91e5d6d5b985ba2467ce5b0218b5
+
+Verification Definitions:
+  Computed hash: The hash calculated of the source media during the creation or verify process
+  Stored verification hash: The hash calculated during image acquisition and stored inside the image
+  Report hash: The hash calculated during image acquisition and stored in the image summary report
+
+Image Information:
+  Acquisition started:   Wed Oct 14 18:30:20 2026 (2026-10-14T11:30:20Z)
+  Acquisition finished:  Wed Oct 14 18:37:44 2026 (2026-10-14T11:37:44Z)
+  Segment list:
+    D:\01_Bagusa\Forensik Tugas\USB_Toshiba_Evidence.E01
+
+Image Verification Results:
+  Verification started:  Wed Oct 14 18:37:44 2026 (2026-10-14T11:37:44Z)
+  Verification finished: Wed Oct 14 18:38:24 2026 (2026-10-14T11:38:24Z)
+  MD5 - Computed hash:             a2b1b05dc8b3f3535445437c64b5aae6 : verified
+  MD5 - Stored verification hash:  a2b1b05dc8b3f3535445437c64b5aae6 : verified
+  MD5 - Report hash:               a2b1b05dc8b3f3535445437c64b5aae6 : verified
+  SHA1 - Computed hash:            97ba63c1c53e91e5d6d5b985ba2467ce5b0218b5 : verified
+  SHA1 - Stored verification hash: 97ba63c1c53e91e5d6d5b985ba2467ce5b0218b5 : verified
+  SHA1 - Report hash:              97ba63c1c53e91e5d6d5b985ba2467ce5b0218b5 : verified
