@@ -8,7 +8,7 @@
 
 Investigasi forensik digital komprehensif terhadap media penyimpanan fisik USB flash drive untuk membuktikan integritas rantai bukti (*chain-of-custody*), memetakan tata letak partisi Master Boot Record (MBR), merekonstruksi berkas terhapus dari *unallocated space* (*data carving*), serta menganalisis taktik penyamaran anti-forensik (*file extension spoofing* dan *Windows CLSID directory camouflage*).
 
-📄 **[Unduh Laporan Formal Forensik (PDF)](./Digital%20Forensics%20Examination%20Report.pdf)** | 📊 **[Unduh Slide Presentasi Forensik (PPTX)](./documentation/USB_Forensics_Flow.pptx)**
+📄 **[Unduh Laporan Formal Forensik (PDF)](./Digital%20Forensics%20Examination%20Report.pdf)** | 📊 **[Slide Acuan Materi Dosen](./documentation/USB_Forensics_Flow.pptx)**
 
 ---
 
