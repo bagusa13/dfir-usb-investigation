@@ -2,7 +2,7 @@
 
 Investigasi forensik digital independen terhadap media penyimpanan fisik USB flash drive untuk menganalisis integritas bukti (*cryptographic dual-hashing*), memetakan struktur volume/partisi, merekonstruksi berkas terhapus (*data carving*), serta membongkar teknik penyamaran anti-forensik (*file extension spoofing* dan *CLSID directory camouflage*).
 
-📄 **[Lihat Laporan Lengkap Formal (PDF)](./reports/Digital_Forensics_Report.pdf)**
+📄 **[Lihat Laporan Lengkap Formal (PDF)](./Digital%20Forensics%20Examination%20Report.pdf)**
 
 ---
 
