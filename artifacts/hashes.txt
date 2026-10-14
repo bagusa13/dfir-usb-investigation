@@ -1,28 +1,8 @@
----
+Evidence: USB_Toshiba_Evidence.E01
+Algorithm: MD5
+Hash: a2b1b05dc8b3f3535445437c64b5aae6
+Status: MATCH
 
-### 2. `artifacts/hashes.txt`
-Salin teks berikut ke dalam file `artifacts/hashes.txt`:
-
-```text
-================================================================================
-DIGITAL EVIDENCE HASH LOG - KASUS-USB-01
-================================================================================
-Evidence ID      : EVD-USB-01
-Device Model     : TOSHIBA TransMemory USB Device
-Drive Interface  : USB (Removable Media)
-Total Sectors    : 30,310,400 sectors (512 bytes per sector)
-Source Data Size : 15,518,924,800 bytes (~14.45 GiB)
-Image Format     : E01 (Expert Witness Format)
-Examiner         : DHOD
-Acquisition Tool : FTK Imager v8.3.0.27
-
-[COMPUTED HASH RESULTS]
-MD5 Hash         : a2b1b05dc8b3f3535445437c64b5aae6
-SHA1 Hash        : 97ba63c1c53e91e5d6d5b985ba2467ce5b0218b5
-
-[VERIFICATION STATUS]
-MD5 Verify       : MATCH (Stored == Computed)
-SHA1 Verify      : MATCH (Stored == Computed)
-Bad Blocks       : 0 bad blocks detected
-Status           : VERIFIED / ZERO EVIDENCE ALTERATION
-================================================================================
+Algorithm: SHA1
+Hash: 97ba63c1c53e91e5d6d5b985ba2467ce5b0218b5
+Status: MATCH
